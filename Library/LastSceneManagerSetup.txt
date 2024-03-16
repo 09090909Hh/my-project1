@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Samples/HoloKit Unity SDK/0.3.8/Stereoscopic Rendering/Scenes/StereoscopicRendering.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
